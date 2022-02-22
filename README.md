@@ -1,6 +1,6 @@
 # utmscsm_app
 
-A new Flutter project.
+This is my fyp project for UTM School of Computing committee where this project linked with IoT hardware which is Infrared Obstacle Avoidance sensor. The sensor detects any objectsuch as parcel or mail passing through in the staff pigeonhole mailbox. It will give a notification amount of parcel or mail delivered from admin academic into staff pigeonhole mailbox through UTMSCSP application. This application have staff and admin function where admin can manage registered staff through this application. 
 
 ## Getting Started
 
