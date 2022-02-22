@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718284436809",
+    "project_id": "utmscsm-app",
+    "storage_bucket": "utmscsm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718284436809:android:8edc4ff38bf5d620871698",
+        "android_client_info": {
+          "package_name": "com.example.utmscsm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718284436809-munld8gii8m0r3lr59g5a4roq8f988me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVprfM38jQNpRbfID9WsVEqgVCLhaIvTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718284436809-munld8gii8m0r3lr59g5a4roq8f988me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

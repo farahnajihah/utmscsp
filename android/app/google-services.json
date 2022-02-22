@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703356546842",
+    "firebase_url": "https://utmsc-smartmailbox-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "utmsc-smartmailbox",
+    "storage_bucket": "utmsc-smartmailbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703356546842:android:357c526141e604db4546a3",
+        "android_client_info": {
+          "package_name": "com.example.utmscsm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703356546842-ij2d4esnj79nl3srei2hq9e5iigq39er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYdnuVu5C8j6dAiSyEGlLY6RpnG8s_CgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703356546842-ij2d4esnj79nl3srei2hq9e5iigq39er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
